@@ -1,4 +1,4 @@
-# ⚡ Smart Local Power Outage Tracker
+# ⚡Grid-Sense
 
 A full-stack web application that enables citizens to report, track, and get real-time alerts about power outages in their locality — identified by **pincode**. Built with **Spring Boot** on the backend and **React.js** on the frontend, featuring WebSocket-based live updates, JWT security, email notifications, and outage risk prediction.
 
